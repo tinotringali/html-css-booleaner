@@ -14,3 +14,50 @@ header{
     padding-top: 100px;
     padding-left: 200px;
     }
+
+main{
+  padding-left: 200px;
+}
+
+.title{
+    font-size: 40px;
+    width: 1000px;
+    margin-bottom: 0;
+}    
+
+.subtitle{
+   color: grey;
+   margin-top: 5px;
+   margin-bottom: 0px;
+}
+
+.blue{
+    color: #2faee6;
+}
+
+h4{
+    color: grey;
+    margin-top: 0px;
+}
+
+.articolo{
+    width: 1000px;
+}
+
+ul{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.tabella{
+    background-color: #20a9e5;
+    color: white
+}
+
+.tabella-2, .tabella-3{
+    background-color: #b1e5f2;
+}
+
+.thead{
+    width: 600px;
+}
